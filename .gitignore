@@ -2,3 +2,5 @@ CHIP-tools/
 sunxi-tools/
 
 !buildTools
+
+!.woodpecker
